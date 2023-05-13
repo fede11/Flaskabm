@@ -1,0 +1,3 @@
+pip install python-dotenv
+SI DA ERROR NO ENCONTRO EN PYTHON 311 PROBAR
+pip install --no-binary :all: python-dotenv
